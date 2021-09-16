@@ -1,1 +1,1 @@
-# Practice-Node-JavaScript-Restful-api-basics
+# Node-JavaScript-Restful-api-basics

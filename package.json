@@ -1,0 +1,25 @@
+{
+  "name": "node-javascript-restful-api-basics",
+  "version": "1.0.0",
+  "description": "REST API IN JAVASCRIPT USING NODE SERVER",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedAskari/Node-JavaScript-Restful-api-basics.git"
+  },
+  "author": "Syed Askari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedAskari/Node-JavaScript-Restful-api-basics/issues"
+  },
+  "homepage": "https://github.com/SyedAskari/Node-JavaScript-Restful-api-basics#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
